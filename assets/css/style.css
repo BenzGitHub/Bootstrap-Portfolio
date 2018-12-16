@@ -4,5 +4,37 @@ html, body {
     background-image: url(../images/gravel.png);
 }
 
+.card-header {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+}
 
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
 
+.thumbnail {
+    position: relative;
+    font:
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    background-color: #4aaaa5;
+}
+
+h2{
+    color: #4aaaa5;
+}
+
+.item-name {
+    color: #4aaaa5;
+}
+
+#item-name {
+    color: #4aaaa5;
+}
